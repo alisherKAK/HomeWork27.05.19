@@ -45,7 +45,7 @@ namespace HomeWork16_05_19.Models
         public double Avghumidity { get; set; }
 
         [JsonProperty("condition")]
-        public Condition { get; set; }
+        public Condition Condition{ get; set; }
 
     [JsonProperty("uv")]
     public double Uv { get; set; }

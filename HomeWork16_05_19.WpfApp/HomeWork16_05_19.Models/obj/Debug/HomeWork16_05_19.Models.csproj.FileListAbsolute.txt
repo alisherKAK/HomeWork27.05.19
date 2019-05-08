@@ -1,0 +1,9 @@
+D:\WPF\HomeWork16_05_19.WpfApp\HomeWork16_05_19.Models\obj\Debug\HomeWork16_05_19.Models.csprojAssemblyReference.cache
+D:\WPF\HomeWork16_05_19.WpfApp\HomeWork16_05_19.Models\obj\Debug\HomeWork16_05_19.Models.csproj.CoreCompileInputs.cache
+D:\WPF\HomeWork16_05_19.WpfApp\HomeWork16_05_19.Models\bin\Debug\HomeWork16_05_19.Models.dll
+D:\WPF\HomeWork16_05_19.WpfApp\HomeWork16_05_19.Models\bin\Debug\HomeWork16_05_19.Models.pdb
+D:\WPF\HomeWork16_05_19.WpfApp\HomeWork16_05_19.Models\bin\Debug\Newtonsoft.Json.dll
+D:\WPF\HomeWork16_05_19.WpfApp\HomeWork16_05_19.Models\bin\Debug\Newtonsoft.Json.xml
+D:\WPF\HomeWork16_05_19.WpfApp\HomeWork16_05_19.Models\obj\Debug\HomeWork16_05_19.Models.csproj.CopyComplete
+D:\WPF\HomeWork16_05_19.WpfApp\HomeWork16_05_19.Models\obj\Debug\HomeWork16_05_19.Models.dll
+D:\WPF\HomeWork16_05_19.WpfApp\HomeWork16_05_19.Models\obj\Debug\HomeWork16_05_19.Models.pdb

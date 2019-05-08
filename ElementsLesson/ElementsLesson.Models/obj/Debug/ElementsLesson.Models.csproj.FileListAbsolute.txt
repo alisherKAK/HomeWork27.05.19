@@ -1,0 +1,5 @@
+D:\WPF\ElementsLesson\ElementsLesson.Models\bin\Debug\ElementsLesson.Models.dll
+D:\WPF\ElementsLesson\ElementsLesson.Models\bin\Debug\ElementsLesson.Models.pdb
+D:\WPF\ElementsLesson\ElementsLesson.Models\obj\Debug\ElementsLesson.Models.csproj.CoreCompileInputs.cache
+D:\WPF\ElementsLesson\ElementsLesson.Models\obj\Debug\ElementsLesson.Models.dll
+D:\WPF\ElementsLesson\ElementsLesson.Models\obj\Debug\ElementsLesson.Models.pdb

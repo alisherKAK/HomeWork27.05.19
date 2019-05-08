@@ -20,3 +20,7 @@ D:\WPF\HomeWork16_05_19.WpfApp\HomeWork16_05_19.WpfApp\obj\Debug\HomeWork16_05_1
 D:\WPF\HomeWork16_05_19.WpfApp\HomeWork16_05_19.WpfApp\obj\Debug\HomeWork16_05_19.WpfApp.csproj.CopyComplete
 D:\WPF\HomeWork16_05_19.WpfApp\HomeWork16_05_19.WpfApp\obj\Debug\HomeWork16_05_19.WpfApp.exe
 D:\WPF\HomeWork16_05_19.WpfApp\HomeWork16_05_19.WpfApp\obj\Debug\HomeWork16_05_19.WpfApp.pdb
+D:\WPF\HomeWork16_05_19.WpfApp\HomeWork16_05_19.WpfApp\bin\Debug\HomeWork16_05_19.Models.dll
+D:\WPF\HomeWork16_05_19.WpfApp\HomeWork16_05_19.WpfApp\bin\Debug\Newtonsoft.Json.dll
+D:\WPF\HomeWork16_05_19.WpfApp\HomeWork16_05_19.WpfApp\bin\Debug\HomeWork16_05_19.Models.pdb
+D:\WPF\HomeWork16_05_19.WpfApp\HomeWork16_05_19.WpfApp\bin\Debug\Newtonsoft.Json.xml

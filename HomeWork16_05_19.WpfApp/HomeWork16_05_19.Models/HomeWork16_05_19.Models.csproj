@@ -49,6 +49,7 @@
     <Compile Include="Day.cs" />
     <Compile Include="Forecast.cs" />
     <Compile Include="Forecastday.cs" />
+    <Compile Include="Json.cs" />
     <Compile Include="Location.cs" />
     <Compile Include="Model.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

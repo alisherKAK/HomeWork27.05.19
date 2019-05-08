@@ -1,0 +1,8 @@
+D:\WPF\ElementsLesson\ElementsLesson.Services\bin\Debug\ElementsLesson.Services.dll
+D:\WPF\ElementsLesson\ElementsLesson.Services\bin\Debug\ElementsLesson.Services.pdb
+D:\WPF\ElementsLesson\ElementsLesson.Services\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+D:\WPF\ElementsLesson\ElementsLesson.Services\obj\Debug\ElementsLesson.Services.csprojAssemblyReference.cache
+D:\WPF\ElementsLesson\ElementsLesson.Services\obj\Debug\ElementsLesson.Services.csproj.CoreCompileInputs.cache
+D:\WPF\ElementsLesson\ElementsLesson.Services\obj\Debug\ElementsLesson.Services.csproj.CopyComplete
+D:\WPF\ElementsLesson\ElementsLesson.Services\obj\Debug\ElementsLesson.Services.dll
+D:\WPF\ElementsLesson\ElementsLesson.Services\obj\Debug\ElementsLesson.Services.pdb
