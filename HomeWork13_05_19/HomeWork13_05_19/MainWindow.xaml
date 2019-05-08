@@ -1,0 +1,29 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="310.084" Width="439.106"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        >
+    <Grid Margin="0,0,39,0">
+        <materialDesign:Card VerticalAlignment="Stretch" Background="#FF25AC87" Padding="64" Margin="10,10,-19,10" materialDesign:ShadowAssist.ShadowEdges="All" materialDesign:ShadowAssist.ShadowDepth="Depth5" materialDesign:ShadowAssist.Darken="True">
+            <StackPanel>
+                <TextBlock materialDesign:ShadowAssist.ShadowEdges="Left" materialDesign:ShadowAssist.ShadowDepth="Depth5" materialDesign:ShadowAssist.Darken="True" Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#DD9B19F5" Background="#FF25AC87" FontFamily="Algerian">Name: Alisher</TextBlock>
+                <TextBlock materialDesign:ShadowAssist.ShadowEdges="Left" materialDesign:ShadowAssist.ShadowDepth="Depth5" materialDesign:ShadowAssist.Darken="True" Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#DD1D4D07" Background="#FF25AC87" FontFamily="Algerian">Age: 16</TextBlock>
+                <TextBlock materialDesign:ShadowAssist.ShadowEdges="Left" materialDesign:ShadowAssist.ShadowDepth="Depth5" materialDesign:ShadowAssist.Darken="True" Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#DD020A05" Background="#FF25AC87" FontFamily="Algerian">Status: Online</TextBlock>
+                <TextBlock materialDesign:ShadowAssist.ShadowEdges="Left" materialDesign:ShadowAssist.ShadowDepth="Depth5" materialDesign:ShadowAssist.Darken="True" Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#DD004985" Background="#FF25AC87" FontFamily="Algerian">Email: example@gmail.com</TextBlock>
+                <TextBlock materialDesign:ShadowAssist.ShadowEdges="Left" materialDesign:ShadowAssist.ShadowDepth="Depth5" materialDesign:ShadowAssist.Darken="True" Style="{DynamicResource MaterialDesignTitleTextBlock}" Foreground="#DD1000AC" Background="#FF25AC87" FontFamily="Algerian">Favourite meal: Borch</TextBlock>
+            </StackPanel>
+        </materialDesign:Card>
+    </Grid>
+</Window>
