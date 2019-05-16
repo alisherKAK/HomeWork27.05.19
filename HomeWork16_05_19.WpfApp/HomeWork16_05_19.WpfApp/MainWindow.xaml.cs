@@ -42,7 +42,7 @@ namespace HomeWork16_05_19.WpfApp
             {
                 result = client.DownloadString($"http://api.apixu.com/v1/forecast.json?key=59bacc56d0fc4e55bdb144248190605&q={cityNameTextBox.Text}&days=7");
             }
-            var forecast = JsonConvert.DeserializeObject<Json>(result);
+            var forecast = JsonConvert.DeserializeObject<Forecast>(result);
             var cards = cardsGrid.Children.OfType<Card>().ToList();
 
             foreach(var card in cards)
