@@ -1,0 +1,25 @@
+﻿<Window x:Class="BindingSecondPart.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BindingSecondPart"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid Name="itemsDataGrid" Height="245" VerticalAlignment="Top" HorizontalAlignment="Left" Width="792"/>
+        <StatusBar Name="statusBar" HorizontalAlignment="Left" Width="792" Height="20" VerticalAlignment="Bottom">
+            <ProgressBar IsIndeterminate="True" Visibility="Collapsed" Width="150" Height="18" Name="progressBar"/>
+            <TextBlock Name="statusTextBlock" Width="150" Height="18" Text="Готово"/>
+        </StatusBar>
+        <TextBlock HorizontalAlignment="Left" Margin="10,253,0,0" TextWrapping="Wrap" Text="Название" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,289,0,0" TextWrapping="Wrap" Text="Цена" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="288,250,0,0" TextWrapping="Wrap" Text="Описание" VerticalAlignment="Top"/>
+        <TextBox Name="itemNameTextBox" HorizontalAlignment="Left" Height="23" Margin="88,252,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="itemPriceTextBox" HorizontalAlignment="Left" Height="23" Margin="88,289,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <RichTextBox Name="itemDescriptionRichTextBox" Margin="366,250,0,50"/>
+        <Button Name="createItemButton" Click="CreateItemButtonClick" Content="Создать" HorizontalAlignment="Left" Margin="10,335,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Name="changeFirstRowButton" Click="ChangeFirstRowButtonClick" Content="Изменить" HorizontalAlignment="Left" Margin="10,374,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>
